@@ -1,0 +1,11 @@
+C:\Users\mautexier.V2-BTS-SIO\Documents\vMaxime\GSB_Projet_QMM\BiblioClasse\bin\Debug\BiblioClasse.dll
+C:\Users\mautexier.V2-BTS-SIO\Documents\vMaxime\GSB_Projet_QMM\BiblioClasse\bin\Debug\BiblioClasse.pdb
+C:\Users\mautexier.V2-BTS-SIO\Documents\vMaxime\GSB_Projet_QMM\BiblioClasse\obj\Debug\BiblioClasse.csprojResolveAssemblyReference.cache
+C:\Users\mautexier.V2-BTS-SIO\Documents\vMaxime\GSB_Projet_QMM\BiblioClasse\obj\Debug\BiblioClasse.csproj.CoreCompileInputs.cache
+C:\Users\mautexier.V2-BTS-SIO\Documents\vMaxime\GSB_Projet_QMM\BiblioClasse\obj\Debug\BiblioClasse.dll
+C:\Users\mautexier.V2-BTS-SIO\Documents\vMaxime\GSB_Projet_QMM\BiblioClasse\obj\Debug\BiblioClasse.pdb
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\BiblioClasse\bin\Debug\BiblioClasse.dll
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\BiblioClasse\bin\Debug\BiblioClasse.pdb
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\BiblioClasse\obj\Debug\BiblioClasse.csproj.CoreCompileInputs.cache
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\BiblioClasse\obj\Debug\BiblioClasse.dll
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\BiblioClasse\obj\Debug\BiblioClasse.pdb
